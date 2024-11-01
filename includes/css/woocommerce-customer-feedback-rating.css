@@ -1,0 +1,24 @@
+.star{
+    background-image:url('../images/star-gray.png');
+    background-position:left -2px;
+    background-size: cover;
+    display:block;
+    width:30px;
+    height:30px;
+    line-height:16px;
+    float:left;
+    cursor: pointer;
+    zoom:1;
+}
+
+.fullStar{
+    background-image:url('../images/star-gold.png');
+}
+
+.stars{
+    overflow: hidden;
+}
+
+.tmp_feedback_service{
+    background-image:url('../images/star-gold.png');
+}
